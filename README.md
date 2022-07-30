@@ -1,7 +1,7 @@
 # ML_Projects
 ## 1. Insurance_Proj.ipynb
-   - Statistical Learning Project
-   - Data Description:
+   Statistical Learning Project
+   Data Description:
      The data at hand contains medical costs of people characterized by certain
      attributes.
      Domain:
